@@ -9,4 +9,6 @@ public interface BookService {
     void addBook(book book);
 
     void deleteBook(Integer id);
+
+    void UpdateBook(book b);
 }

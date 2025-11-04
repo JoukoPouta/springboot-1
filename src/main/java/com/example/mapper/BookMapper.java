@@ -1,10 +1,7 @@
 package com.example.mapper;
 
 import com.example.pojo.book;
-import org.apache.ibatis.annotations.Delete;
-import org.apache.ibatis.annotations.Insert;
-import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.annotations.*;
 
 @Mapper
 public interface BookMapper {
@@ -16,4 +13,7 @@ public interface BookMapper {
 
     @Delete("delete from book.book where id = #{id}")
     void deleteBook(Integer id);
+
+    @Update("update book.book set name = #{name} where id = #{id}")
+    void updateBook(book b);
 }

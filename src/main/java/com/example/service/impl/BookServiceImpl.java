@@ -18,12 +18,17 @@ public class BookServiceImpl implements BookService {
     }
 
     @Override
-    public void addBook(book book) {
-        bookMapper.addBook(book);
+    public void addBook(book b) {
+        bookMapper.addBook(b);
     }
 
     @Override
     public void deleteBook(Integer id) {
         bookMapper.deleteBook(id);
+    }
+
+    @Override
+    public void UpdateBook(book b) {
+        bookMapper.updateBook(b);
     }
 }

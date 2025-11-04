@@ -33,4 +33,12 @@ public class Bookcontorller {
         bookService.deleteBook(id);
         return "删除成功";
     }
+    @RequestMapping("update")
+    public String updateBook(Integer id, String name) {
+        book b = new book();
+        b.setId(id);
+        b.setName(name);
+        bookService.UpdateBook(b);
+        return "修改成功";
+    }
 }
