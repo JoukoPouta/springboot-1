@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf1f08d3-6808-441d-920f-d596ada960bb" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.9.11\mvn_repo" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.9.11\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="21" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="34xQXvVnMf4fPVGXH50O0XRrYXp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Springboot1Application.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Springboot1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cf1f08d3-6808-441d-920f-d596ada960bb" name="更改" comment="" />
+      <created>1762152786421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762152786421</updated>
+      <workItem from="1762152790575" duration="552000" />
+      <workItem from="1762225603006" duration="351000" />
+      <workItem from="1762227657354" duration="10000" />
+      <workItem from="1762227669659" duration="2000" />
+      <workItem from="1762236278499" duration="2979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
