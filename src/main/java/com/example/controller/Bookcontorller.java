@@ -20,7 +20,7 @@ public class Bookcontorller {
             return "书名：" + b.getName();
         }
     }
-    @RequestMapping("add")
+    @RequestMapping("/add")
     public String addBook(Integer id , String name) {
         book b = new book();
         b.setId(id);
@@ -28,12 +28,12 @@ public class Bookcontorller {
         bookService.addBook(b);
         return "添加成功";
     }
-    @RequestMapping("delete")
+    @RequestMapping("/delete")
     public String deleteBook(Integer id) {
         bookService.deleteBook(id);
         return "删除成功";
     }
-    @RequestMapping("update")
+    @RequestMapping("/update")
     public String updateBook(Integer id, String name) {
         book b = new book();
         b.setId(id);
