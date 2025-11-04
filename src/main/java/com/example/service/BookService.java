@@ -7,4 +7,6 @@ public interface BookService {
     book findByname(String name);
 
     void addBook(book book);
+
+    void deleteBook(Integer id);
 }

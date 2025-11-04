@@ -28,4 +28,9 @@ public class Bookcontorller {
         bookService.addBook(b);
         return "添加成功";
     }
+    @RequestMapping("delete")
+    public String deleteBook(Integer id) {
+        bookService.deleteBook(id);
+        return "删除成功";
+    }
 }
